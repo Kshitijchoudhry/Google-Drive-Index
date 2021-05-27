@@ -2,11 +2,14 @@
 
 [![](https://data.jsdelivr.com/v1/package/gh/ParveenBhadooOfficial/Bhadoo-Drive-Index/badge)](https://www.jsdelivr.com/package/gh/ParveenBhadooOfficial/Bhadoo-Drive-Index) [![](https://data.jsdelivr.com/v1/package/gh/ParveenBhadooOfficial/Google-Drive-Index/badge)](https://www.jsdelivr.com/package/gh/ParveenBhadooOfficial/Google-Drive-Index) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParveenBhadooOfficial%2FGoogle-Drive-Index&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
 
+
+# [READ THIS TO FIX ISSUES](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/wiki/Getting-Started-with-gdi.js.org)
+
 ## Full Whitelabel and Customizable Index | One of a kind
 
 ## IMPORTANT UPDATE
 
-* If your index stopped working, that means you're using old config, please generate new code with features and bug fixes. If you see UPDATE banner after new install, don't panic, wait 24-48 hours, it'll go away, its due to cloudflare cache or just generate code again as i've fixed since this update.
+* If your index stopped working, that means you're using old config, please generate new code with features and bug fixes.
 
 ### [Generate Code](https://gdi.js.org/build)
 
